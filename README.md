@@ -50,7 +50,7 @@ bash
 
 Add the Copr Repository
 ```bash
-sudo curl -Lo /etc/yum.repos.d/_copr_jonathonp3-wolf-os.repo https://copr.fedorainfracloud.org/coprs/jonathonp3/wolf-os/repo/fedora-44/jonathonp3-sirius-os-fedora-44.repo
+sudo curl -Lo /etc/yum.repos.d/_copr_jonathonp3-wolf-os.repo https://copr.fedorainfracloud.org/coprs/jonathonp3/wolf-os/repo/fedora-44/jonathonp3-wolf-os-fedora-44.repo
 ```
 Install the Provisioner
 ```bash
@@ -67,7 +67,7 @@ If you are building your own image via BlueBuild, add the repository to your rec
 
 Repository URL:
 ```bash
-https://copr.fedorainfracloud.org/coprs/jonathonp3/wolf-os/repo/fedora-44/jonathonp3-wolf-os-fedora-44.repo
+https://copr.fedorainfracloud.org/coprs/jonathonp3/sirius-os/repo/fedora-44/jonathonp3-sirius-os-fedora-44.repo
 ```
 Under the packages section in recipe.yml:
 yaml
