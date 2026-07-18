@@ -3,7 +3,7 @@
 
 Name:           wolf-os-pia-installer
 Version:        1.0.0
-Release:        11%{?dist}
+Release:        1%{?dist}
 Summary:        Automated PIA VPN provisioner for Wolf-OS
 License:        GPLv3
 URL:            https://github.com/jonathonp3/wolf-os-pia-installer/
